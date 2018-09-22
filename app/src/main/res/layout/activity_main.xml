@@ -26,7 +26,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="35dp"
-        android:text="TextView"
+        android:text="@string/title"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="50sp"
         tools:text="@string/title" />
